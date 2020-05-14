@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'sinatra', '~>1.4.4'
+gem 'sinatra', '~> 2.0.0'
 gem 'haml', '~>4.0.5'
 gem 'json', '~>1.8.1'
 gem 'activesupport', '~>4.0.2'
@@ -19,4 +19,4 @@ gem 'addressable', '~>2.3.6'
 gem 'sucker_punch', '~>1.0'
 gem 'mimemagic', '~>0.2.1'
 gem 'foreman', '~>0.63.0'
-gem 'puma', '~>2.7.1'
+gem 'puma', '~> 2.12.0'
