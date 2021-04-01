@@ -12,7 +12,7 @@ gem 'jdbc-postgres', "~> 9.3", platform: :jruby
 gem 'nokogiri', '~>1.6.2.1'
 gem 'stemmer', '~>1.0.1'
 gem 'robots', '~>0.10.1'
-gem 'rest-client', '~>1.6.7'
+gem 'rest-client', '~> 1.8.0'
 gem 'ruby-ntlm', '~>0.0.1'
 gem 'rika', '~>1.5.0'
 gem 'addressable', '~>2.3.6'
